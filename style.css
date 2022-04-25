@@ -1,0 +1,21 @@
+.d-block {
+    background-color: pink;
+}
+ 
+.footer{
+padding: 100px;
+background-color: #343434;
+color: white;
+text-align: center;
+margin-top: 300px;
+}
+
+a{
+    text-decoration: none;
+    margin: 60px;
+    font-size: 26px;
+}
+
+a:hover{
+    color: white;
+}
